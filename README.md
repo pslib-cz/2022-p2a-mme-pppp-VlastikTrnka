@@ -12,7 +12,7 @@
 
 You will need the following materials to complete the project:
 1. Filament PLA
-    -Color: blue, white (You can certainly use different color combination. For the example I chose this one)
+    - Color: blue, white (You can certainly use different color combination. For the example I chose this one)
     Link: [HERE YOU CAN BUY IT](https://www.prusa3d.com/product/pearl-blue-pla-filament-1kg/)
     
 
