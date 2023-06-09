@@ -47,3 +47,9 @@ You can search for similar components on other platforms or local electronics st
 And you're done, now you can enjoy a great gaming experience!
 
 ## Price Calculation
+
+Pricing depends a lot on what equipment you have available, if you don't have anything it's probably not worth investing in an expensive 3D printer, AirBrush etc.
+
+But if you already have the required technology, production will cost you the minimum
+    - Filament
+    - Your time
