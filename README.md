@@ -27,8 +27,7 @@ You can search for similar components on other platforms or local electronics st
 
 ## Workflow
     
-1. Begin by 3D printing
- Print all available attached materials
+1. Begin by 3D printing - Print all available attached materials
     - Pieces of coastline (12x)
     - Exchange cards (9x)
     - Boxes for playing objects (4x)
@@ -55,7 +54,7 @@ Pricing depends a lot on what equipment you have available, if you don't have an
 But if you already have the required technology, production will cost you the minimum
 - Filament
 - Your time
-- 2h Pieces of coastline print
-- 40min Exchange cards print
-- 8h Boxes print
-- 2h Items coloring (of course the time may vary)
+    - 2h Pieces of coastline print
+    - 40min Exchange cards print
+    - 8h Boxes print
+    - 2h Items coloring (of course the time may vary)
