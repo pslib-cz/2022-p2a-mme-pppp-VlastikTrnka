@@ -28,10 +28,10 @@ You can search for similar components on other platforms or local electronics st
 ## Workflow
     
 1. Begin by 3D printing
-        - Print all available attached materials
-            - Pieces of coastline
-            - Exchange cards
-            - Boxes for playing objects
+        Print all available attached materials
+        - Pieces of coastline
+        - Exchange cards
+        - Boxes for playing objects
         You can edit any SLDPRT file to your liking :D
         Note! Be careful with adjusting the dimensions of the "Pieces of coastline".
         <img src="" alt="Image" width="300">
@@ -52,4 +52,8 @@ Pricing depends a lot on what equipment you have available, if you don't have an
 
 But if you already have the required technology, production will cost you the minimum
     - Filament
-    - Your time
+    Your time
+    - 2h Pieces of coastline print
+    - 40min Exchange cards print
+    - 8h Boxes print
+    - 2h Items coloring (of course the time may vary)
