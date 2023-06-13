@@ -28,7 +28,7 @@ You can search for similar components on other platforms or local electronics st
 ## Workflow
     
 1. Begin by 3D printing
-Print all available attached materials
+- Print all available attached materials
     - Pieces of coastline (12x)
     - Exchange cards (9x)
     - Boxes for playing objects (4x)
