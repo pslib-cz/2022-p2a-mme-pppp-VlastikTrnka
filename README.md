@@ -31,7 +31,7 @@ You can search for similar components on other platforms or local electronics st
     - [Pieces of coastline](Border-Ready/Border_STL) (12x)
     - [Exchange cards](SmenaSTL) (3x [3 x 1 exchange](SmenaSTL/MMA-karta-smena.STL) + all remaining)
     - [Boxes for playing objects](Box) (4x)
-<img src="" alt="Image" width="300">
+<img src="Photo Documentation/Coastline_colored.jpg" alt="Image" width="300">
 
 You can edit any SLDPRT file to your liking :D
 Note! Be careful with adjusting the dimensions of the "Pieces of coastline".
