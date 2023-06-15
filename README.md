@@ -29,7 +29,7 @@ You can search for similar components on other platforms or local electronics st
     
 1. Begin by 3D printing - Print all available attached materials
     - [Pieces of coastline](Border-Ready/Border_STL) (12x)
-    - [Exchange cards](SmenaSTL) (9x)
+    - [Exchange cards](SmenaSTL) (3x [3 x 1 exchange](SmenaSTL/MMA-karta-smena.STL) + all remaining)
     - [Boxes for playing objects](Box) (4x)
 <img src="" alt="Image" width="300">
 
