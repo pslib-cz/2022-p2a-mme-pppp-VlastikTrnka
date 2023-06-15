@@ -28,9 +28,9 @@ You can search for similar components on other platforms or local electronics st
 ## Workflow
     
 1. Begin by 3D printing - Print all available attached materials
-    - Pieces of coastline (12x)
-    - Exchange cards (9x)
-    - Boxes for playing objects (4x)
+    - [Pieces of coastline](Border-Ready/Border_STL) (12x)
+    - [Exchange cards]() (9x)
+    - [Boxes for playing objects]() (4x)
 <img src="" alt="Image" width="300">
 
 You can edit any SLDPRT file to your liking :D
