@@ -47,7 +47,7 @@ Note! Be careful with adjusting the dimensions of the "Pieces of coastline".
 
 And you're done, now you can enjoy a great gaming experience!
 
-## Price Calculation
+## Price and Time Calculation
 
 Pricing depends a lot on what equipment you have available, if you don't have anything it's probably not worth investing in an expensive 3D printer, AirBrush etc.
 
