@@ -41,8 +41,8 @@ Note! Be careful with adjusting the dimensions of the "Pieces of coastline".
     - There are no limits to creativity
     <img src="Photo Documentation/Coastline_colored.jpg" alt="Image" width="250">
     
-3. Use the oil markers
-    - colour the exchange cards
+3. Use the oil markers to colour the exchange cards
+   
     <img src="Photo Documentation/ExchangeCards.JPG" alt="Image" width="250">
     
 5. Arrangement in box
