@@ -46,7 +46,8 @@ Note! Be careful with adjusting the dimensions of the "Pieces of coastline".
     <img src="Photo Documentation/ExchangeCards.JPG" alt="Image" width="250">
     
 5. Arrangement in box
-   - <img src="Photo Documentation/Layout.JPG" alt="Image" width="250">
+   
+   <img src="Photo Documentation/Layout.JPG" alt="Image" width="250">
    
 And you're done, now you can enjoy a great gaming experience!
 
