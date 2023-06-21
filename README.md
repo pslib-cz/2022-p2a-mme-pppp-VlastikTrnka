@@ -31,7 +31,7 @@ You can search for similar components on other platforms or local electronics st
     - [Pieces of coastline](Border-Ready/Border_STL) (12x)
     - [Exchange cards](ExchangeCards/ExchangeCardsSTL) (3x [3 x 1 exchange](ExchangeCards/ExchangeCardsSTL/Exchange-Basic.STL) + all remaining)
     - [Boxes for playing objects](Box/Box-DONE.STL) (4x)
-    <img src="Photo Documentation/Coastline_colored.jpg" alt="Image" width="250">
+    <img src="Photo Documentation/Game.JPG" alt="Image" width="250">
 
 You can edit any SLDPRT file to your liking :D
 Note! Be careful with adjusting the dimensions of the "Pieces of coastline".
@@ -42,9 +42,11 @@ Note! Be careful with adjusting the dimensions of the "Pieces of coastline".
     <img src="Photo Documentation/Coastline_colored.jpg" alt="Image" width="250">
     
 3. Use the oil markers to colour the exchange cards
-    <img src="" alt="Image" width="300">
+    <img src="Photo Documentation/ExchangeCards.JPG" alt="Image" width="250">
     
-
+4. Arrangement in box
+   <img src="Photo Documentation/Layout.JPG" alt="Image" width="250">
+   
 And you're done, now you can enjoy a great gaming experience!
 
 ## Price and Time Calculation
